@@ -1,7 +1,7 @@
-![I am a Backend developer](https://github.com/JuniorBaez-ux/JuniorBaez-ux/blob/main/header.png)
+![I am a Backend web developer](https://github.com/JuniorBaez-ux/JuniorBaez-ux/blob/main/header.png)
   
 
-### <div align="center">Backend developer</div>  
+### <div align="center">Backend web developer</div>  
   
 
 Welcome to my GitHub profile, here you can find all kinds of projects, some personal ones, some made with educational purposes and some because I'm curious for some new technologies always.  
