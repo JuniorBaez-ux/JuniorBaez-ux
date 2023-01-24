@@ -73,7 +73,7 @@ Welcome to my GitHub profile, here you can find all kinds of projects, some pers
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-git-master-juniorbaez-ux.vercel.app//api?username=JuniorBaez-ux&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-git-master-juniorbaez-ux.vercel.app//api?username=JuniorBaez-ux&theme=omni&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
