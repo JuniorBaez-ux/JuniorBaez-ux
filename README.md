@@ -89,7 +89,7 @@ Welcome to my GitHub profile, here you can find all kinds of projects, some pers
 
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats-git-master-juniorbaez-ux.vercel.app//api/top-langs/?username=Juniorbaez-ux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-juniorbaez-ux.vercel.app/api/top-langs/?username=Juniorbaez-ux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
